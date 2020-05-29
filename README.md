@@ -1,4 +1,4 @@
-# solved-by-flexbox-ru
+# Решено при помощи flexbox
 
 Перевод с сайта
 
